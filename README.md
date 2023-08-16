@@ -1,5 +1,6 @@
 # Recommendation-system-User-based-
 This is a recommendation system that gives recommendation based on user similarity.
+
 ## Repository Contents
 
 - **fashion.csv**: The input CSV file containing fashion product data.
